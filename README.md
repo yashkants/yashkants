@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @yashkants
-- 👀 I’m interested in Data Science
-- 📫 How to reach me yashkantsharma574@gmail.com
-
-<!---
-yashkants/yashkants is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Yash Kant Sharma
+👀 I’m interested in Data Analyst, Mis Executive
+😃 Ask me about MY SQL, PYTHON, TABLEAU, EXCEL ADVANCE Excel, POWER BI.
+💞️ I’m looking for a job in Data Analyst, MIS Executive Field
+📫 How to reach me yashkantsharma574@gmail.com or mob no. : 7902040615
