@@ -14,12 +14,6 @@
 🔹 Automation: Automate tasks & improve efficiency using Python & Excel Macros  
 🔹 Database Management: Optimize and query structured databases using SQL & MySQL  
 
-### 📌 Projects & Work
-🔹 Nike Sales vs Profit Analysis (Excel) – Trend analysis & performance optimization  
-🔹 Supermarket Data Analytics (SQL) – Customer segmentation & demand forecasting  
-🔹 Bank Churn Segmentation (Python) – Customer retention strategy using data insights  
-🔹 World Cup 2024 Data Analytics (Power BI) – Cricket performance dashboard  
-
 ### 🔗 Explore my projects: GitHub Repositories
 
 📫 Connect With Me  
